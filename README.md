@@ -4,7 +4,7 @@
 I am passionate about AI, NLP, and machine learning, actively working on language models, data-driven solutions, and AI-powered automation. 
 My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch, Scikit-learn, and NLP libraries.
 
-_🔭 Current Focus_
+🔭 Current Focus
 
 •	Advancing in Generative AI and NLP.
 
@@ -41,10 +41,10 @@ _🔭 Current Focus_
 
 📫 Connect with Me
 
-GitHub: github.com/praveenjeya77
+[GitHub]: github.com/praveenjeya77
 
-Email: mclightning79@gmail.com
+[Email]: mclightning79@gmail.com
 
-LinkedIn: linkedin.com/in/praveenjeyakumar
+[LinkedIn]: linkedin.com/in/praveenjeyakumar
 
     
