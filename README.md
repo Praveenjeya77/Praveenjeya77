@@ -1,18 +1,18 @@
 ## Hi there 👋I'm Praveen Jeaykumar
 
-🚀 About Me
+**🚀 About Me**
 I am passionate about AI, NLP, and machine learning, actively working on language models, data-driven solutions, and AI-powered automation. 
 My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch, Scikit-learn, and NLP libraries.
 
-🔭 Current Focus
+**🔭 Current Focus**
 
 •	Advancing in Generative AI and NLP.
-
+    
 •	Enhancing skills in Machine Learning and AI-based applications.
 
 •	Building an AI-powered Resume Analyzer to automate recruitment insights.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 •	Languages: Python, Java, SQL (MySQL)
 
@@ -22,7 +22,7 @@ My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch
 
 •	Developer Tools: Git, VS Code, IntelliJ IDEA
 
-💡 Projects & Contributions
+**💡 Projects & Contributions**
 
 •	AI Resume Analyzer – Developing an AI-driven system to analyze resumes, extract skills, and match candidates with job roles.
 
@@ -32,17 +32,16 @@ My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch
 
 •	Open-Source Contributor – Actively contributes to GitHub projects, improving AI and machine learning solutions.
 
-
-🎓 Extracurricular & Certifications
+**🎓 Extracurricular & Certifications**
 
 •	Core Member of AI Wizards Club, organizing workshops, webinars, and bootcamps
 
 •	Completed NPTEL Certifications in Machine Learning, Operating Systems, and Cloud Computing.
 
-📫 Connect with Me
+**📫 Connect with Me**
 
-[Email]: (mclightning79@gmail.com)
+Email: mclightning79@gmail.com
 
-[LinkedIn](linkedin.com/in/praveenjeyakumar)
+LinkedIn: www.linkedin.com/in/praveenjeyakumar
 
     
