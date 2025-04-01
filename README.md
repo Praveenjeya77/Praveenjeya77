@@ -41,10 +41,10 @@ My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch
 
 📫 Connect with Me
 
-[GitHub]: github.com/praveenjeya77
+[GitHub](github.com/praveenjeya77)
 
-[Email]: mclightning79@gmail.com
+[Email](mclightning79@gmail.com)
 
-[LinkedIn]: linkedin.com/in/praveenjeyakumar
+[LinkedIn](linkedin.com/in/praveenjeyakumar)
 
     
