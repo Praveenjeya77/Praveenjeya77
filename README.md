@@ -1,4 +1,4 @@
-## Hi there 👋I'm Praveen Jeaykumar
+## Hi there 👋I'm Praveen Jeyakumar
 
 **🚀 About Me**
 I am passionate about AI, NLP, and machine learning, actively working on language models, data-driven solutions, and AI-powered automation. 
