@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hi there 👋I'm Praveen Jeaykumar
 
-<!--
-**Praveenjeya77/Praveenjeya77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I am passionate about AI, NLP, and machine learning, actively working on language models, data-driven solutions, and AI-powered automation. 
+My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch, Scikit-learn, and NLP libraries.
 
-Here are some ideas to get you started:
+_🔭 Current Focus_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Advancing in Generative AI and NLP.
+
+•	Enhancing skills in Machine Learning and AI-based applications.
+
+•	Building an AI-powered Resume Analyzer to automate recruitment insights.
+
+🛠️ Tech Stack
+
+•	Languages: Python, Java, SQL (MySQL)
+
+•	AI & ML: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+
+•	Databases: MongoDB, MySQL
+
+•	Developer Tools: Git, VS Code, IntelliJ IDEA
+
+💡 Projects & Contributions
+
+•	AI Resume Analyzer – Developing an AI-driven system to analyze resumes, extract skills, and match candidates with job roles.
+
+•	STP BOT (Generative AI-powered Web App) – Integrated AI models for image & text generation, translation, and summarization.
+
+•	AI-Based Movie Recommender – Built a movie recommendation system using collaborative filtering and deployed it via Flask.
+
+•	Open-Source Contributor – Actively contributes to GitHub projects, improving AI and machine learning solutions.
+
+
+🎓 Extracurricular & Certifications
+
+•	Core Member of AI Wizards Club, organizing workshops, webinars, and bootcamps
+
+•	Completed NPTEL Certifications in Machine Learning, Operating Systems, and Cloud Computing.
+
+📫 Connect with Me
+
+GitHub: github.com/praveenjeya77
+
+Email: mclightning79@gmail.com
+
+LinkedIn: linkedin.com/in/praveenjeyakumar
+
+    
