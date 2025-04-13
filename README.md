@@ -26,6 +26,8 @@ My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch
 
 •	AI Resume Analyzer – Developing an AI-driven system to analyze resumes, extract skills, and match candidates with job roles.
 
+•   LearnMate- An interative learning path generator using Generative AI
+
 •	STP BOT (Generative AI-powered Web App) – Integrated AI models for image & text generation, translation, and summarization.
 
 •	AI-Based Movie Recommender – Built a movie recommendation system using collaborative filtering and deployed it via Flask.
