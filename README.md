@@ -1,6 +1,7 @@
 ## Hi there 👋I'm Praveen Jeyakumar
 
 **🚀 About Me**
+
 I am passionate about AI, NLP, and machine learning, actively working on language models, data-driven solutions, and AI-powered automation. 
 My expertise spans Python, Java, SQL, and AI frameworks like TensorFlow, PyTorch, Scikit-learn, and NLP libraries.
 
